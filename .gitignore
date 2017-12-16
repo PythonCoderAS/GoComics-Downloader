@@ -99,3 +99,19 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#PyCharm
+idea*
+
+#. anything
+.*
+
+#logs/text files
+*.txt
+*.log
+logs\
+
+#tests
+*.jpg
+*.bin
+setupcommands.*
